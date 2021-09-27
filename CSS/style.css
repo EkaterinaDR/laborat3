@@ -1,0 +1,174 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wrapper {
+    display: flex;
+    align-content:center;
+    background-color: #FFFAF0;
+    justify-content: center;
+}
+
+.text_1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-weight: 650;
+    color: #8B0000;
+    text-align: center;
+}
+.car {
+    font-size: 45px;
+    font-weight: 550;
+    color: #8B0000;
+    text-align: center;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content_1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_1 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.dog_1 {
+    margin: 20px;
+}
+.content_2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_2 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.dog_2 {
+    margin: 20px;
+}
+.content_3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_3 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.dog_3 {
+    margin: 20px;
+}
+.content_4 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_4 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.dog_4 {
+    margin: 20px;
+}
+.content_5 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_5 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.dog_5 {
+    margin: 20px;
+}
+.content_7 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_7 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.dog_7 {
+    margin: 20px;
+}
+.content_8 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin: 30px;
+}
+.car_8 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.dog_8 {
+    margin: 20px;
+}
+.navig {
+    color: #8B0000;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 30px;
+}
+.content_9 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.car_9 {
+    color: #FFFAF0;
+    font-size: 30px;
+    font-weight: 500;
+}
+.car_9 {
+    font-size: 45px;
+    font-weight: 600;
+    color: #FFFAF0;
+    text-align: center;
+}
+.car_10 {
+    font-size: 55px;
+    font-weight: 600;
+    color: #FFFAF0;
+    text-align: center;
+}
+.num {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8B0000;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.car_11 {
+    text-decoration: none;
+}
